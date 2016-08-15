@@ -6,6 +6,8 @@
     "empty": "^0.10.1",
     "empty-element": "^1.0.0",
     "express": "^4.14.0",
+    "jquery": "^3.1.0",
+    "materialize-css": "^0.97.7",
     "page": "^1.7.1",
     "pug": "^2.0.0-beta5",
     "yo-yo": "^1.2.2"
